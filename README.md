@@ -13,6 +13,7 @@ In retail and supply chain operations, accurate demand forecasting is critical. 
 4. **Final Model:** The algorithm identified that a **Multiplicative Trend & Multiplicative Seasonality** model performed best, accounting for the reality that holiday sales spikes scale upward as the company grows year-over-year.
 
 ## Key Results
+![Quarterly Demand Forecast](forecast_results.png)
 * **Accuracy:** Reached a final optimized MAPE of 13.24% on a 12-month holdout test set.
 * **Impact:** Delivered a stable, actionable 4-quarter forecast that a supply chain manager could directly use for resource allocation and warehouse capacity planning.
 
